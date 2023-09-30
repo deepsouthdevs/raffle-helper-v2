@@ -1,6 +1,6 @@
 # Raffler: A raffle app for communities
 
-At deep south devs we luuuurve raffles. Attendees _must_ leave our events
+At [deep south devs](https://www.meetup.com/deepsouthdevs/) we luuuurve raffles. Attendees _must_ leave our events
 with knowledge, connections _and swag_, donated by our partner companies.
 Managing these raffles is arduous—entering, doing the draw, ensuring peeps
 get their prizes—so we developed this app to smooth the experience for
@@ -30,6 +30,8 @@ To connect the existing Supabase backend:
 Run the app in dev mode:
 
     npm start
+
+Go to http://localhost:3000 in your browser and start interacting with the app!
 
 ## Collaborating
 
