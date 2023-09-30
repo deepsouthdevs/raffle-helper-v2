@@ -13,7 +13,7 @@ Try [NVM](https://github.com/nvm-sh/nvm/blob/master/README.md) if you don't have
 
 Clone the repo:
 
-    git clone git@github.com:deepsouthdevs/raffle-helper-v2.git
+    git clone git@github.com:deepsouthdevs/raffler.git
 
 Install dependencies:
 
